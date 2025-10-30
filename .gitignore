@@ -1,0 +1,8 @@
+.pio/*
+!.pio/build/
+.pio/build/*
+!.pio/build/adafruit_feather_esp32_v2/
+.pio/build/adafruit_feather_esp32_v2/*
+!.pio/build/adafruit_feather_esp32_v2/firmware.bin
+!.pio/build/adafruit_feather_esp32_v2/merged_firmware.bin
+.vscode
