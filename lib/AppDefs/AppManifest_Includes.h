@@ -15,3 +15,4 @@
 #include "BootAnimation.h"
 #include "StratagemGame.h"
 #include "GraveyardScreensaver.h"
+#include "BlackJack.h"

@@ -51,3 +51,4 @@ APP_ENTRY(APP_GRAVEYARDSCREENSAVER,  "Graveyard",           "Screensavers",   []
 
 //
 // ... more lines as needed ...
+APP_ENTRY(APP_BLACKJACK, "Black Jack", "Games",  [](){ blackJackApp.begin(); }, [](){ blackJackApp.end(); }, [](){ blackJackApp.update(); })
